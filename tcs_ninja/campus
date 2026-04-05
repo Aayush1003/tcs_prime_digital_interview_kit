@@ -1,0 +1,154 @@
+========================================
+TCS NINJA INTERVIEW QUESTIONS
+========================================
+
+** INTERVIEW: 1 **
+
+TOTAL TIME FOR EXPLANATION: 75 MINUTES
+
+---- INTRODUCTION ----
+1) Tell me about yourself
+2) What is your educational background
+3) What are your technical skills (Programming languages, frameworks, databases)
+4) Have you done any projects or internships - explain one major project
+5) Why do you want to join TCS Ninja?
+
+---- CODING QUESTION ----
+6) Explain the coding question you solved in the coding round
+7) What was your approach and how did you optimize it
+8) What were the time and space complexity of your solution
+9) Can you optimize your solution further?
+10) Have you solved similar problems before?
+
+-------- DSA QUESTIONS --------
+11) What is Big O Notation and why is it important
+12) Difference between Array and LinkedList - when to use what
+13) Explain Binary Search and its implementation
+14) Recursive approach of Binary Search
+15) Time and Space complexity of Binary Search
+16) Difference between Bubble Sort, Insertion Sort, and Quick Sort
+17) When should you use Merge Sort vs Quick Sort
+18) What is a Stack - real-world examples
+19) What is a Queue - applications and types (FIFO, LIFO, Priority Queue)
+20) Implement a Stack using Array and LinkedList
+21) What is a Binary Tree and its types
+22) Explain Tree Traversal methods (Inorder, Preorder, Postorder, Level Order)
+23) What is a Balanced Binary Search Tree
+24) Difference between Linear Search and Binary Search
+25) What is Hash Map and Hash Table - explain hashing
+26) How does collision handling work (Chaining vs Open Addressing)
+27) What is a Graph and its representations (Adjacency List, Adjacency Matrix)
+28) Explain BFS and DFS algorithms
+29) What are Heaps and Priority Queues
+30) Explain the concept of Recursion with examples
+
+--------- DATABASE QUESTIONS ---------
+31) What is SQL and NoSQL - advantages and disadvantages
+32) Explain Normalization forms (1NF, 2NF, 3NF, BCNF)
+33) What are Joins - explain Inner Join, Left Join, Right Join, Full Outer Join
+34) Difference between WHERE and HAVING clause
+35) What are Indexes and why are they important
+36) What is a Primary Key and Foreign Key
+37) Explain ACID properties in databases
+38) What is a Transaction and its states
+39) What are Triggers and how do you create them
+40) Difference between DELETE and TRUNCATE
+41) What is a View in SQL
+42) Explain Stored Procedures and Functions
+43) What is a cursor?
+44) What is the difference between UNION and UNION ALL
+
+--------- WEB TECHNOLOGY QUESTIONS ---------
+45) What is REST API and how does it work
+46) What is HTTP and HTTPS - key differences
+47) Difference between HTTP methods - GET, POST, PUT, DELETE, PATCH
+48) What is JSON and XML - when to use
+49) What is a Web Server and Application Server
+50) Explain MVC architecture
+51) What is OOP and its principles (Encapsulation, Abstraction, Inheritance, Polymorphism)
+52) What is a Constructor and Destructor
+53) Explain method overloading and method overriding
+54) What is abstraction and when to use abstract classes vs interfaces
+55) What are design patterns (Singleton, Factory, Observer, etc.)
+56) What is SOLID principles
+
+--------- OPERATING SYSTEM QUESTIONS ---------
+57) What is a Process and Thread - difference
+58) What is Synchronization and Deadlock
+59) Explain Mutex and Semaphore
+60) What is Virtual Memory and Paging
+61) Explain CPU Scheduling algorithms (FCFS, SJF, Round Robin)
+62) What is Context Switching
+63) Explain Cache memory and its levels
+
+--------- NETWORKING QUESTIONS ---------
+64) What is OSI Model - explain all 7 layers
+65) What is TCP/IP Model
+66) Difference between TCP and UDP
+67) What is IP address, subnet mask, and CIDR
+68) What is DNS and how does it work
+69) What is SSL/TLS
+70) Explain the difference between IPv4 and IPv6
+71) What is a Socket
+
+--------- HR QUESTIONS ---------
+72) If offered both TCS Ninja and TCS Digital, which would you prefer and why
+73) Are you willing to relocate?
+74) What is your salary expectation?
+75) What do you know about TCS?
+76) Why do you want to join TCS specifically?
+77) Where do you see yourself in 5 years?
+78) What are your strengths and weaknesses?
+79) Tell us about a challenging situation you faced and how you handled it?
+80) What do you expect from the company?
+81) Do you have any team experience?
+82) How do you handle pressure and deadlines?
+83) Do you have any questions for us?
+
+--------- CORE TECHNICAL CONCEPTS ---------
+84) Explain the concept of memoization and dynamic programming
+85) What are greedy algorithms - explain with examples
+86) What is backtracking algorithm
+87) What is a Trie data structure
+88) Explain Graph algorithms (Dijkstra, Bellman Ford, Floyd Warshall)
+89) What is Topological Sorting
+90) Explain the concept of Bit Manipulation
+
+--------- COMMON CODING TOPICS ---------
+91) String manipulation and pattern matching
+92) Bit manipulation techniques
+93) Matrix problems and solutions
+94) Sliding window technique
+95) Two pointer technique
+96) Prefix sum and suffix sum
+97) Segment trees and Fenwick trees
+
+========================================
+ADDITIONAL QUICK REFERENCE
+========================================
+
+**Most Asked Topics:**
+- Binary Search
+- Sorting Algorithms
+- Linked Lists and Arrays
+- Tree Traversals
+- Graph Algorithms
+- SQL Queries
+- REST API Concepts
+- OOP Principles
+
+**Preparation Tips:**
+- Practice coding problems on platforms like LeetCode or HackerRank
+- Master at least 2-3 programming languages
+- Understand the time and space complexity of each solution
+- Be ready to explain your thought process
+- Have 2-3 mini projects ready to discuss
+- Practice common HR questions
+- Take mock interviews
+
+**Time Management:**
+- Spend 10 mins on introduction
+- Spend 20 mins explaining your coding solution
+- Spend 30 mins on DSA, Database, and Web Technology questions
+- Spend 10-15 mins on HR questions
+- Keep 5 mins buffer for any follow-up questions
