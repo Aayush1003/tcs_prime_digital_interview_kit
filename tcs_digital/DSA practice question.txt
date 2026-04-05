@@ -1,0 +1,56 @@
+TCS Digital DSA Questions :
+
+1) Prepare all sorting algorithm with code and time complexity .
+    
+		1.Bubble sort
+		2.Selection sort
+		3. Insertion sort 
+		4. Quick sort
+		5. Merge Sort
+
+2) Prepare all searching algorithm with code and time complexity
+
+  ---Linear Search
+-----Binary Search
+-----Breadth first search program 
+
+3 Write a programe to find the square root of a number
+
+4 count the number of occurances of each character in a given String 
+
+5 sort an Array Containing as 1s and 2s 
+
+6 Maximum sum in sub array (Kadanes Algorithm) 
+
+7 Find the element that appears once in an array where every other element appears twice 
+
+8.Loop in linked list || Find the Middle of the list 
+
+9.Reverse linked list
+
+10. Implement stack using array|| Queue using array
+
+11. How to find next greater
+
+12. reverse word in the string 
+
+# Basic Question of the codding 
+
+13 print the fibbonasis series of n numbers 
+
+14. Write a program to find number is Armstrong or not
+15 swap two variables without using third Variable 
+16 Write a program ton print the factorial of the number
+17 Write a program to reverse an array
+18 Write a proograme to find whether number is prime or not
+19 write a programe to find the square root of the number
+20 Write a program to print precision of any number
+
+21  DFS BFS and KAndes algorithm 
+
+22 .bruit->better->optimal 
+
+
+
+
+

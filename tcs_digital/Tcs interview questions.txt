@@ -1,0 +1,309 @@
+
+** Interview:1 **
+
+total time for explaination is 75 minitues 
+
+
+1) tell me about yourself
+2)Exam codding question and your approach to it 
+
+----DSA---
+3)Binary search Explaination
+4)Recurscive approach of binary search
+4) Difference between bubble sort and insertion sort
+5) which sorting algorithm is best
+6)Difference between time complexity and space complexity
+---------------
+*_--- Database related questions ------*
+
+7) what are Trigeers ,normalization and left join
+8) What are rest API
+9)In which format websend dtata from frontend to backend
+10) do you know about system design ?
+
+-----* HR related question *-------
+
+11) if offered ninja or digital
+
+
+-----* Some basisc question to prepare *------
+
+1) tell me something about yourself 
+2) what have you done after graduation/post graducation
+3) what are your skills ? do you have done any certification on that
+4) Tell us about your previous organization and role
+5) what are weakness and strength
+6) what are your weakness and strength
+7) are you willing to reallocate 
+8)what is your salary expectation
+9) what do you know about tcs 
+10)why do you want to join TCS
+11)where do you see you in next 5 years
+12) what do you expect form the company
+13)do you have any question for me 
+
+--- visit all topics of DSA,NetWorking ,Operating student.
+-------------------------------------------------------------------------------------------------------
+
+------* Interview Question For Data Science *-----------------
+***Interview 2:***
+
+# Technical Interview 
+
+1) Introduction about yourself 
+2) Tell me about your Project
+3) Why you use Decision Tree
+4) What is Decision Tree
+5) What is Decision Tree do?
+6) Decison Tree vs Random Forest
+7) How we define Accurancy of a model 
+8) What is Tupple and List and difference between them
+9) what is Lambda function
+10) Xrange vs Range function
+11) Bubble sort Algorithm implementation
+12) Inner join vs Outer Join
+13) Query on JOin 
+
+#  Manager Interview Question :
+
+
+1) How was a day today 
+2) why you choose Machine Learning
+3) Do you have any projects
+4) Explain Your projects 
+5) Who is CEO of TCS 
+6) what is supervised Learning
+7) How do you implement ML in real life Situation where it is not used yet ?
+
+
+# Hr interview :
+
+
+1) Why should i hire you 
+2) what are your Hobbies 
+3) Are you Motivated 
+4) what makes you Happy
+5) Are you ready to relocate 
+6) Tell me about Tcs and Why you want to join TCS.
+7) If we assigned a Location in chennai to you accept a job?
+----------------------------------------------------------------------------------------------------
+
+** Interview 3: ***
+
+1) Introduction (Based on the interview they ask qustion on the project)
+---- Question on the machine Learning based on project  ---
+
+2) what is Machine Learning 
+3) what is Supervised Learning 
+4) What is difference between supervised Learning and unsupervised Learning 
+5) what is the difference between regression and classification
+6) can me give an real life examples of different types of machine learning algorithm
+7) which is my favourite Language 
+8) some basic question based on the favourite Language 
+9) what are the basic four pillers of OPPs
+-----DSA question ---
+10) What is Stack and Queue 
+11) can we do multiple inheritance in java or not ?
+13) can we do multiple inheritance in python yes then how 
+
+14 ) do i know about Dictionary and tuple and list
+
+---- Software Engineering ----
+
+15)Explain me about the agile methodology,Waterfall model
+
+16)can you tell me difference between agile model and waterfall model
+
+
+
+-----*** Hr interview ***
+
+
+1)what are your Strength and Weakness 
+2) why you wnat come in Tcs 
+3) please tell me which othe company you have already cracked 
+
+----------Situation based question --------------
+
+4) Suppose you have experinced ,and you ended your project and you have an opportiunity to work with the 
+   technology you have experince in the past or moving towards the unknown technology what should you do?
+   (we have to justify our question)
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+------Question on Operating System--------
+
+1) what is mean by operating system
+2) What is mean by process 
+3) what is difference between process and program 
+4) what are the different types of process 
+5 ) what is mean by deadlock 
+6) when does deadlock occur 
+7) conditions of deadlock 
+9) how we are prevent the deadlock 
+10) types of Schedulinhg algorithm
+
+
+-------- Database interview Question ----------
+
+1) Normalization :
+   -> what is mean by Normalization 
+   -> Need of Normalization
+   -> types of Normalization
+   -> difference between each type 
+2)Key :
+
+----> what do you mean by Primary key 
+----> What are different types of key
+3) Joins :
+---> various join 
+
+------- Data Structure ----
+
+1) types of Data Structure 
+--- Linear data Structure -----
+2) stack and queue theory points 
+3 ) application of each Data Structure 
+
+----Non Linear Data Structure ----
+
+
+tree and Graph 
+
+
+
+
+-----Opps concept -----------
+
+1) when we are telling the answer try to compare it with real life example of each concept
+
+
+----- When we are answering about the project take care of things --------
+
+1) what is our project 
+2) what problem we have solve in this project 
+3) How we solve this problem 
+4) write a technology to solve the problem
+5) What was role in this project 
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
+Interview 4:
+
+
+
+1) In simple terms, explain what is Blockchain Technology.
+2) Is Bitcoin a part of Blockchain or vice versa?
+3) What is AI, ML and Deep Learning?
+4) What is Big Data Analytics?
+5) Explain Exception Handling with an example.
+6) What is the use of “finally” block in exception handling?
+7) Explain the pillars of object oriented programming namely abstraction, encapsulation,
+     polymorphism and inheritance.
+8) Explain Overloading and Overriding.
+9) What is Final?
+10) Difference between JDK and JRE.
+11) What is JVM?
+12) Name various data types in Java.
+13) Why multiple inheritance is not there in Java?
+14) Why pointers are not there in Java?
+15) What is Static variable and method in Java?
+16) Can you overload the main method?
+17) What kind of errors are there in Java?
+18) What are the advantages of Java?
+19) Name some errors and exceptions?
+20) What is the super class of Exception?
+21) What is the super class of Throwable?
+22) What are ACID properties?
+23) What are transactions in databases?
+24) What is linked list?
+25) Detection and removal of a loop in linked list.
+26) Difference between call by value and call by reference.
+27) Why do we use R?
+28) How can we use R to predict something?
+29) What are the advantages of R?
+30) What happens after you enter the URL of a website?
+31) What is Dynamic programming?
+32) Explain the difference between Drop, Truncate and Delete.
+33) What is Normalization?
+34) Difference between Having and Where Clause.
+35) Write a query to get the 3rd largest salary from a table.
+36) Write queries to declare the primary key and foreign key for some table.
+37) Problems based on the usage of increment and decrement operators.
+38) Swap two variables without using the third one.
+39) Swap two variables without using the third one and without using the arithematic operators.
+40) Describe your projects.
+
+--------- HR round ----------
+
+
+ 1)They asked questions related to my hobbies.
+
+
+-----------------------------------------------------------------------------------------
+Also to end with, they asked some puzzles which were:
+
+
+
+1) There is a 5L jar and a 3L Jar and an another jar is given to you(without dimensions) 
+and infinite supply of water is there, 
+how you will collect 4 litres in the dimensionless jar? You cannot throw water outside.
+
+2)  There are 3 bulbs in one room and the 3 switches are in another room, how you will find which 
+switch is for which bulb? You can go to the room where bulbs are present only once.
+
+
+
+
+----------------------------------------------------------------------------------
+
+For python prepration:
+
+Prepare on list, codes on for loop with lists, lambda function, finding even odd  numbers from any sequence. 
+
+Class, Object, methods and attributes, Inheritance in OOPs
+
+List comprehension, functions
+
+In pandas :  what is data frame and series,
+Group by , finding value_counts, missing values.
+Rahul Gaywat Csmss AI&DS: OOPs and functions
+
+
+
+--------------------------------------------------------------------------------------------------
+
+
+Sql : When keyword ,dense_rank() and rank()
+ 
+
+project : In depth Understanding of the project and its related concept 
+
+CS fundamentals : OS ,Software Testing ,Networking 
+
+COdding Question : Medium and Hard 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

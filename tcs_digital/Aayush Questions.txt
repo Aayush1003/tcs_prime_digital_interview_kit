@@ -1,0 +1,93 @@
+Difference between Sql and NoSQL
+
+1. Difference between primary key and Foregin key
+
+2 .Order by and Group by Difference 
+
+3. All Joins 
+
+4. Normalization all type 
+
+5.What is ACID properties 
+
+6. How to find the second heighest salary of the employee
+
+7. How to find the Heighest Salry in the table 
+
+8. ALL COmmands 
+
+9.All clauses 
+
+What's your favorite subject
+What is Cloud computing
+What is PAAS
+What is the benefit of RDBMS over DBMS?
+What is VDL?
+Types of key
+DDL and DML example.
+Html responsive question
+Html 5 vs Html difference
+Do and do while loop difference
+Supervised Learning and Numpy.
+Data Wrapping
+Normalization and denormalization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interviewer: Hello, How are you feeling?
+Me: I replied her great with a nice smile (I was quite confident :).  
+Interviewer: Ok tell me about yourself.
+Me: I introduced myself to her in which I told her about my college details, my educational background, and my hobbies and interests.
+Interviewer: Any other interests do you have?
+Me: Answered it. Then after taking my introduction she passed it to the person who took my technical interview.
+Interviewer: Asked about my projects
+Me: I told her about my projects (For your information I made 5 projects amongst which four were of ML and one was of Web Dev.)
+Interviewer: That means you are more comfortable in Python...
+Me: Yes Mam! 
+Interviewer: Ok tell me about any of the technical concepts in Python of your choice.
+Me: I chose Exception handling and told everything related to it like how to create your own exception class, what is the exception, some common exceptions in Python, and everything else related to it.
+Interviewer: What is a dictionary how does it work?
+Me: Answered it told her all about hashing technique that it makes use of a backend.
+Interviewer: What is self in Python?
+Me: Answered it.
+Interviewer: Tell me about type casting in python.
+Me: Answered it.
+Interviewer: What is the lambda function?
+Me: Answered it.
+Interviewer: What is pickling in Python?
+Me: Answered it. I also told her how I made use of pickling in my one of the project to save ML trained model.
+Interviewer: Good what all other technologies have you worked upon?
+Me: Answered that I have worked on Django, Java, Python, JS, jQuery, ML, CSS, JSP, etc.
+Interviewer: That's Nice do you know about the cloud, blockchain anything else other than ML?
+Me: Answered it I told about cloud computing, blockchain, and data analytics.
+Interviewer: Then some cross-questions on what I answered?
+Me: Answered it.
+Interviewer: What is the 51% problem in blockchain?
+Me: Answered it.
+Interviewer: If in the dictionary a key already exists and I try to again insert the same key in that dictionary with a different value what will happen?
+Me: Answered that the old key value will get replaced with the new key value.
+Interviewer: Explain to me any of your one projects in detail.
+Me: I explained to her in detail everything about my project along with some code snippets explanation also.
+Interviewer: Nice explain any ML algorithm of your choice.
+Me: I explained her working of K-Means Clustering along with all the mathematical concepts that this algorithm makes use of to cluster data.
+
+
+
+
+
+
