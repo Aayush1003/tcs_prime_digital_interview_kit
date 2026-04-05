@@ -1,0 +1,321 @@
+==========================================
+GOOGLE & MICROSOFT INTERVIEW QUESTIONS
+==========================================
+
+## TABLE OF CONTENTS
+1. Data Structures & Algorithms
+2. System Design & Architecture
+3. Behavioral Questions
+4. Technical Deep Dives
+5. Role-Specific Questions
+
+==========================================
+## 1. DATA STRUCTURES & ALGORITHMS
+==========================================
+
+### Arrays & Strings
+1. Two Sum - Find two numbers that add up to a target
+2. Longest Substring Without Repeating Characters
+3. Container With Most Water
+4. Trapping Rain Water
+5. Merge Sorted Array
+6. Remove Duplicates from Sorted Array
+7. Rotate Array
+8. Best Time to Buy and Sell Stock
+9. Product of Array Except Self
+10. Missing Number
+
+### Linked Lists
+11. Reverse Linked List
+12. Detect Cycle in Linked List
+13. Merge Two Sorted Lists
+14. Remove Nth Node From End of List
+15. LRU Cache Implementation
+16. Palindrome Linked List
+17. Intersection of Two Linked Lists
+18. Add Two Numbers (represented as linked lists)
+
+### Trees & Graphs
+19. Binary Tree Level Order Traversal
+20. Invert Binary Tree
+21. Lowest Common Ancestor of BST
+22. Path Sum (does a path exist with given sum)
+23. Clone Graph
+24. Course Schedule (Topological Sort)
+25. Number of Islands
+26. Surrounded Regions
+27. Word Ladder
+28. Alien Dictionary
+
+### Dynamic Programming
+29. Climbing Stairs
+30. Coin Change Problem
+31. House Robber Series
+32. Longest Increasing Subsequence
+33. Edit Distance
+34. Word Break
+35. Palindromic Substrings
+36. Maximum Product Subarray
+37. Longest Common Subsequence
+38. Regular Expression Matching
+
+### Sorting & Searching
+39. Search in Rotated Sorted Array
+40. Median of Two Sorted Arrays
+41. Kth Largest Element
+42. Merge K Sorted Lists
+43. Top K Frequent Elements
+44. Implement Trie (Prefix Tree)
+
+==========================================
+## 2. SYSTEM DESIGN & ARCHITECTURE
+==========================================
+
+### Foundational Questions
+1. Design a URL Shortening Service (like Bit.ly)
+   - Requirements: Read/Write heavy?
+   - Database schema
+   - Caching strategy
+   - Load balancing
+
+2. Design a Search Engine (like Google Search)
+   - Web crawling
+   - Indexing
+   - Ranking algorithm
+   - Search relevance
+
+3. Design a Real-time Chat System
+   - User presence
+   - Message storage
+   - Notification system
+   - Scalability
+
+4. Design a Social Media Feed (like Facebook/Twitter)
+   - Feed generation
+   - Load distribution
+   - Caching strategies
+   - Real-time updates
+
+5. Design a Video Streaming Service (like YouTube)
+   - Video storage & encoding
+   - Adaptive bitrate streaming
+   - CDN usage
+   - Scalability
+
+### Intermediate Questions
+6. Design a Rate Limiter
+   - Token bucket algorithm
+   - Sliding window
+   - Distributed system considerations
+
+7. Design a File Sharing System (like Google Drive)
+   - File storage
+   - Synchronization
+   - Version control
+   - Conflict resolution
+
+8. Design a Payment System
+   - Transaction handling
+   - Consistency requirements
+   - Fraud detection
+   - Reconciliation
+
+9. Design a Distributed Cache (like Redis)
+   - Eviction policies
+   - Replication
+   - Consistency models
+
+10. Design an E-commerce Platform
+    - Product catalog
+    - Shopping cart
+    - Order processing
+    - Inventory management
+
+### Advanced Concepts
+- CAP Theorem
+- Consistency Patterns (Strong, Weak, Eventual)
+- Microservices Architecture
+- API Design Principles
+- Database Sharding Strategies
+- Message Queues & Event Streaming
+- Load Balancing Algorithms
+
+==========================================
+## 3. BEHAVIORAL QUESTIONS
+==========================================
+
+### Google & Microsoft Common Behavioral Questions
+
+1. Tell me about a time when you had to work on a difficult project.
+   - Focus: Problem-solving, persistence, collaboration
+
+2. Describe a situation where you had to learn something new quickly.
+   - Focus: Adaptability, learning agility
+
+3. Tell me about a time you made a mistake. How did you handle it?
+   - Focus: Accountability, humility, resolution
+
+4. Give an example of when you had to work with a difficult team member.
+   - Focus: Communication, empathy, conflict resolution
+
+5. Tell me about your greatest achievement and its impact.
+   - Focus: Impact, initiative, results
+
+6. How do you prioritize when you have multiple tasks?
+   - Focus: Organization, critical thinking
+
+7. Describe a time you had to give constructive feedback.
+   - Focus: Communication, leadership
+
+8. Have you ever had to deal with ambiguous requirements? How did you handle it?
+   - Focus: Clarification, initiative, execution
+
+9. Tell me about a time you worked in an agile/scrum environment.
+   - Focus: Teamwork, iteration, adaptation
+
+10. What's a technical decision you made? Why? Would you do anything differently?
+    - Focus: Technical judgment, learning mindset
+
+### STAR Method Structure
+Situation → Task → Action → Result
+
+==========================================
+## 4. TECHNICAL DEEP DIVES
+==========================================
+
+### Software Design & Patterns
+1. Explain MVC, MVP, and MVVM architectures
+2. Design Patterns: Singleton, Factory, Builder, Observer
+3. SOLID Principles explanation and application
+4. Microservices vs Monolithic architecture
+5. REST API Design best practices
+
+### Database & SQL
+1. SQL Query optimization techniques
+2. Indexing strategies (B-tree, Hash, Full-text)
+3. ACID transactions and consistency
+4. Normalization vs Denormalization
+5. Query: Write a query to find duplicate records
+6. Query: Find employees with salary greater than average
+
+### Object-Oriented Programming
+1. Explain inheritance, polymorphism, encapsulation
+2. Abstract classes vs Interfaces
+3. Method overriding vs overloading
+4. Design patterns implementation
+
+### Web Technologies
+1. How does HTTP work?
+2. What are cookies, sessions, and tokens?
+3. CORS and same-origin policy
+4. Authentication vs Authorization
+5. How to implement a secure API
+
+### DevOps & Cloud
+1. Container orchestration (Docker, Kubernetes)
+2. CI/CD pipeline design
+3. Infrastructure as Code
+4. Monitoring and logging strategies
+5. Environmental scalability
+
+==========================================
+## 5. ROLE-SPECIFIC QUESTIONS
+==========================================
+
+### For Software Engineer Positions
+
+Frontend-Specific:
+1. Explain Virtual DOM and how React uses it
+2. State management in large applications
+3. Performance optimization techniques
+4. Browser rendering pipeline
+5. Event delegation and event bubbling
+
+Backend-Specific:
+1. Microservices communication strategies
+2. Server scalability techniques
+3. Request/Response lifecycle
+4. Caching strategies (Redis, Memcached)
+5. Database replication and consistency
+
+Full-Stack-Specific:
+1. End-to-end system design
+2. Database design for specific requirements
+3. API design and implementation
+4. State management across layers
+5. Performance optimization across stack
+
+### For Data Engineer Positions
+1. Big Data processing frameworks (Spark, MapReduce)
+2. Data pipeline design and ETL
+3. Data warehousing concepts
+4. Real-time data streaming
+5. Data quality and validation
+
+### For DevOps/Infrastructure Engineer
+1. Container orchestration
+2. CI/CD pipeline design
+3. Monitoring and alerting
+4. Disaster recovery and backup strategies
+5. Infrastructure scalability and automation
+
+==========================================
+## TIPS FOR INTERVIEW SUCCESS
+==========================================
+
+✓ PREPARATION
+- Practice coding on whiteboard/online judges (LeetCode, HackerRank)
+- Understand time & space complexity
+- Be ready to optimize solutions
+- Practice system design discussions
+
+✓ DURING INTERVIEW
+- Clarify requirements before jumping to solutions
+- Think out loud - explain your reasoning
+- Ask follow-up questions
+- Discuss trade-offs
+- Test your code mentally
+- Discuss complexity with interviewer
+
+✓ BEHAVIORAL
+- Use STAR method for all stories
+- Focus on YOUR contribution
+- Mention collaboration and teamwork
+- Show learning and growth mindset
+- Have questions for interviewer about role/company
+
+✓ COMMON MISTAKES TO AVOID
+- Not understanding problem completely
+- Jumping to solution without analysis
+- Not discussing trade-offs
+- Writing code without testing
+- Not considering edge cases
+- Poor communication
+- Negative attitude about past experiences
+
+==========================================
+## RESOURCES FOR PRACTICE
+==========================================
+
+Coding Practice:
+- LeetCode.com
+- HackerRank.com
+- CodeSignal.com
+- InterviewBit.com
+
+System Design:
+- System Design Primer (GitHub)
+- Designing Data-Intensive Applications (Book)
+- YouTube: Tech Dummies, Gaurav Sen
+
+Interview Prep:
+- Cracking the Coding Interview (Book)
+- Elements of Programming Interviews
+- YouTube: TechLead, Kevin Naughton Jr
+
+Behavioral:
+- Glassdoor Interview Questions
+- Company-specific resources
+- STAR method practice
+
+==========================================
