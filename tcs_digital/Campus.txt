@@ -1,0 +1,376 @@
+Ques 1. Explain OOPs Concepts.
+Answer 1.
+There are four major OOPs Concepts:
+Encapsulation
+It hides the irrelevant details from the outside world.
+It helps to bind the data and function together to manipulate the data.
+Also Read: Encapsulation in Python
+Also Read: Encapsulation in C++
+Abstraction
+It is an extension of encapsulation.
+Similar to encapsulation, it also hides complexity by hiding irrelevant details.
+Polymorphism
+It helps programmers to build logical codes.
+It allows access to different types of objects through the same interface.
+Inheritance
+It helps to derive a class from another class.
+Allows re-using the previously written codes.
+Also Read: Inheritance in Python
+Also Read: Inheritance in Java
+
+Stay updated with the latest blogs on online courses and skills
+Enter Mobile Number
+Ques 2. What is SDLC?
+Answer 2.
+SDLC stands for Software Development Life Cycle. It refers to the phase of work involved in producing software applications. It enables the production of high-quality but cost-effective software.
+The phase of SDLC are:
+Requirement Gathering
+Planning
+Development/Implementation
+Testing
+Deployment
+Maintenance
+Also Read: Software Development Life Cycle
+Must Check: Sdlc Online Courses & Certifications
+Ques 3. What is the Agile Model?
+Answer 3.
+It is a type of Rapid Application Development.
+Testing is frequently done in conjunction with the development phase.
+It follows the concept of consistent growth during the project itself.
+Sprints are used to break down the projects.
+Also Read: Agile Model in Software Engineering
+
+Agile Vs Scrum – Fundamental Understanding and Differences
+Agile is a set of principles for software development that emphasizes flexibility, collaboration, and customer value. Scrum is a specific framework within Agile that has a structured approach with defined...read more
+Read Later
+
+DevOps vs Agile: Key Differences You Need To Know
+Agile and DevOps are two widely used practices in software development. Both aim to deliver quality software promptly. While there are many similarities between DevOps and Agile, there also exist...read more
+Read Later
+
+Agile vs. Waterfall: Know the Key Differences
+The main difference between Agile and Waterfall methodologies lies in their fundamental approaches to software or product development. Waterfall, being a traditional and sequential model, follows a structured path, while...read more
+Read Later
+Ques 4. What is the use of a constructor?
+Answer 4.
+A constructor is a special member function of a class with the same name as the class name.
+The constructor name has the same name as the class name
+Automatically calls when an object is created for the class.
+It can be defined inside or outside the class definition.
+More than one constructor can be declared inside a class with different parameters.
+Also Read: Constructor in Java
+Also Read: Constructor in C++ 
+Ques 5. What is the difference between Abstract Class and Interface?
+Answer 5.
+Abstract Class
+Interface
+Designed to be a parent class.
+It is a blueprint of the class consisting of abstract methods.
+Declared using “Abstract.”
+Declared using “Interface.”
+Does not support multiple inheritances.
+Support multiple inheritances.
+Supports final, non-final, static, and non-static variables.
+Supports only final and static variables.
+
+
+Difference between Abstract class and Interface in Java
+An abstract class in Java can have both abstract methods (without implementation) and concrete methods (with implementation), allowing partial class implementations. An interface, however, defines a contract with only abstract...read more
+Read Later
+
+Abstract Class in Java
+Data Abstraction is one of the fundamental pillars of OOPs concepts in Java. It is achieved by the use of Abstract Classes and Interfaces in Java Programming. FYI, data abstraction...read more
+Read Later
+
+Interface in Java Explained
+The below Java Tutorial Article explains the interface in Java with examples. Moreover it covers multiple inheritance through interfaces using examples.
+Read Later
+Ques 6. What is the difference between DELETE, DROP, and TRUNCATE in SQL.
+Answer 6.
+DELETE
+TRUNCATE
+DROP
+It is a DML command
+It is a DDL command.
+It is a DDL command
+DELETE FROM tble_nameWHERE conditions;
+TRUNCATE TABLE table_name;
+DROP TABLE table_name;
+It removes one or more records from the table
+It removes all the rows from the existing table
+It completely removes the table from the database 
+It doesn’t free the allocated space of the table.
+It doesn’t free the allocated space of the table.
+It completely removes the allocated space for the table from memory.
+It is slower than the DROP and TRUNCATE commands as it deletes one row at a time base on the specified conditions.
+It is faster than both the DELETE and TRUNCATE commands as it deletes all the records at a time without any condition.
+It is faster than DELETE but slower than TRUNCATE as it firstly deletes the rows and then the table from the database. 
+
+Also Read: SQL tutorial
+
+How to Use TRUNCATE Command in SQL?
+SQL TRUNCATE TABLE command is used to remove the record from the table. Confused, the SQL DELETE statement also removes the record from the table. So, why use another command...read more
+Read Later
+
+How to use DROP command in SQL?
+In SQL, the DROP command is used to delete a database, table, index, or view. To use the DROP command, you must be very careful because it permanently deletes the...read more
+Read Later
+
+Delete Statement in SQL
+Delete statement is very important statement in SQL.This article covers delete statement with condition and without condition( with proper syntax and examples)
+Read Later
+Ques 7: What is the difference between C and C++ programming language?
+Answer 7.
+C
+C++
+Developed in 1972
+Developed in the early 1980s.
+It is a function-driven language.
+It is an object-driven language.
+C is a subset of C++.
+C++ is a superset of C.
+C has 32 keywords.
+C++ has 63 keywords.
+Supports built-in data types.
+Supports built-in and user-defined data types.
+Doesn’t have access modifiers.
+Has access modifiers.
+
+Must Check: Difference Between C and C++
+ 
+Ques 8. What is the difference between list and tuple in python?
+Answer 8.
+List
+Tuple
+The list is mutable.
+Tuples are immutable.
+Enclosed in square brackets [].
+Enclosed in simple brackets().
+Prone to errors.
+Not prone to errors.
+Consumes more memory. 
+Consumes less memory.
+Creating a list is a slower process as it needs two memory blocks to be accessed.
+Creating a tuple is faster than the list.
+
+
+Difference Between List and Tuple in Python
+Confused with what list and tuples in Python. Don’t worry the article will clear all your doubts. List and Tuple in Python are the data structures that store and manipulate...read more
+Read Later
+
+Understanding Tuples in Python
+In this guide, you will learn all about Tuples in Python: creating tuples, accessing tuple items, looping through a tuple, and other tuple operations with the help of examples.
+Read Later
+
+All About Python Lists Methods
+In this guide, you will learn all about lists in Python: accessing lists, changing list elements, looping through a list, and other list operations with examples.
+Read Later
+Ques 9. What is Pass and Break statement in Python?
+Answer 9.
+Pass:
+Similar to its name, it does nothing.
+It is used to fill in code initially that can be used in the future.
+It is similar to the null operator.
+Used for empty control statements, functions, and classes.
+Break:
+It is used to terminate the loop in which it is present.
+It terminates only those loops which contain a break loop.
+Also Read: How to use Pass statement in Python
+Also Read: How to use Break statement in C++
+
+Latest Accenture Interview Questions and Answers [2025]
+Accenture is one of the top global companies that offers consulting and IT services to clients across the world. This makes the organization important for job seekers and it is...read more
+Read Later
+Ques 10. What is Cloud Computing?
+Answer 10.
+Cloud computing is a virtual space that delivers hosted services over the Internet, including servers, databases, networking, analytics, and intelligence, ensuring innovation, flexibility, and cost-effectiveness. It uses capabilities like data analytics, machine learning, artificial intelligence, and others according to the industry requirements.
+Also Read: Introduction to Cloud Computing?
+
+What is Cloud Computing Architecture? Advantages and Disadvantages
+Cloud computing is a virtual environment that delivers hosted services such as servers, databases, networking, analytics, and intelligence over the internet, ensuring innovation, flexibility, and cost-effectiveness. Cloud computing has transformed...read more
+Read Later
+
+Evolution of Cloud Computing
+In the latest years, the development of cloud computing has resulted in numerous new technologies. Cloud computing is a computing method in which dynamically scalable and numerous virtualized resources are...read more
+Read Later
+
+Different Characteristics of Cloud Computing
+On-demand self-service, broad network access, and being highly elastic and scalable are some of the fundamental characteristics of cloud computing. The characteristics of cloud computing explain why cloud computing is...read more
+Read Later
+Ques 11. What are the different types of sorting?
+Answer 11.
+The sorting algorithm arranges the elements of a list or array in a specific order. There are different sorting algorithms that can be used to perform the sorting operation.
+Selection Sort Algorithm
+Bubble Sort Algorithm
+Heap Sort
+Merge Sort Algorithm
+Quicksort Algorithm
+Insertion Sort Algorithm
+In the insertion sort algorithm, the 1st element is taken and is considered to be sorted. Then, the second element is considered and is compared with the key elements taken and is integrated until the array is not sorted. 
+Question 12. Define the terms Class and Objects.
+Answer 12.
+Classes
+Objects
+Template for creating and declaring variables. 
+It is an instance of a class.
+It is a logical entity.
+It is a physical entity.
+It can be created many times.
+It is declared once.
+It doesn’t allocate memory when it is created.
+It allocates memory when it is created.
+It can’t be manipulated.
+It can be manipulated.
+
+Also Read: Classes and Objects in C++
+Also Read: Classes and Objects in Python
+Ques 13. What is the difference between Structure and Arrays.
+Answer 13.
+Structure 
+Array
+Collection of variables of different data type.
+Collection of variables of same data type.
+Elements may not be stored in contiguous memory locations.
+Elments are stored in contiguous memory locations.
+Elements are accessed by name.
+Elements are accessed by indexes.
+‘Struct’ is used to declare the structure.
+There is no keyword to declare the  arrays.
+Searching an element takes more time than arrays.
+Searching an element takes less time.
+
+
+8 Most Important Data Structures Every Programmer Must Know
+Knowledge of data structures and algorithms defines the programmers and their coding skills. Hence, it inevitably becomes essential to learn and implement the data structure for a software engineer. The...read more
+Read Later
+
+Understanding Data Structures in C: Types And Operations
+A data structure is an orderly arrangement of data in the computer memory so that it can be used more efficiently. Data structures are a crucial part of computer science....read more
+Read Later
+
+Implementing Array in Java
+In Java, an array is a data structure that stores a fixed-size sequence of elements of the same type. Arrays allow efficient access and manipulation of elements using an index....read more
+Read Later
+Ques 14. What is the difference between UNION and JOIN in SQL?
+Answer 14.
+JOIN
+UNION
+Combines multiple tables based on the matching fields (columns)
+Combines the result of multiple SELECT statements
+Number of the selected field may or may not be the same
+number of the selected field must be the same
+Data type of column may or may not be the same
+Data type of column must be same
+Combine the data in column and may or may not return distinct columns
+Combine the data in row and must return distinct rows
+
+Also Read: How to use UNION in SQL
+Also Read: Difference between UNION and UNION ALL
+
+SQL RIGHT JOIN – Example and Syntax
+Right Join in the sql returns all the rows from the right table and the matching entries from both tables. In this article, we will discuss how to use right...read more
+Read Later
+
+SQL LEFT JOIN – Examples and Syntax
+SQL JOINS are used to extract the record from two or more interrelated tables. In the previous article, we briefly discussed SQL INNER JOIN. In this article, we will discuss...read more
+Read Later
+
+INNER JOIN in SQL
+When you have multiple interrelated tables and want to extract the data from more than two or more tables then SQL JOINS comes into the picture that combines the records...read more
+Read Later
+Ques 15. What is the difference between Primary and Unique key?
+Answer 15.
+Primary Key
+Unique Key
+Used as a unique identifier for each record in the table.
+It is also used as a unique identifier when the primary key is not present.
+A table can have only one primary key.
+A table can have multiple unique keys.
+It can’t have NULL values.
+It can have multiple NULL values.
+Values can’t be changed.
+Values can be modified.
+
+
+Ques 16. Write a program to reverse a string in JAVA.
+Answer 16.
+class Create_New_String_Reverse_String
+{
+  public static void main(String args[]) {
+      String str1  =  "Shiksha Online";
+      System.out.println("Original string: "+str1);
+      int n = str1.length(); // caclulates length of String
+      String Reverse_String ="";
+      char ch;
+      for(int i=0;i<n;i++) {
+       //fetch each character
+       ch = str1.charAt(i);
+       // concatenates each character in front of the new string
+       Reverse_String = ch + Reverse_String;
+       }
+       System.out.printIn("Reversed string: "+ Reverse_String);  // Display the reversed string
+   }
+}
+Copy code
+Output
+
+There are different methods to reverse the string. In the above example, we have shown how to reverse a string in Java. Check out the below articles to know different methods:
+Also Read: Reverse a string in Java
+Also Read: Reverse a string in Python
+Ques 17: How to check if a string is a palindrome or not in Pyhon?
+Answer 17.
+#Define a function
+def isPalindrome(string):
+    if (string == string[::-1]) :
+        return "The string is a palindrome."
+    else:
+        return "The string is not a palindrome."
+#Enter input string
+string = input ("Enter string: ")
+print(isPalindrome(string))
+Copy code
+Output
+
+
+Must Check: Palindrome in Python
+Ques 18. How to print Fibonacci Series in Python?
+Answer 18.
+#Generate the Fibonacci Number using Loop
+num = int(input("Enter the number"))  #enter the number of terms needed
+#set first two fibonacci numbers
+F_0 = 0
+F_1 = 1
+for n in range(0, num):  #Febonacci number is defined only for positive integer
+   if(n<=1):
+       F_n = n  # this will only return the first two fibonacci numbers
+   else:
+       F_n = F_0 + F_1  #every fibonacci number is sum of previous two
+       F_0 = F_1
+       F_1 = F_n
+   print(F_n)
+Copy code
+Also Read: Fibonacci Numbers
+Ques 19. How to print the prime number in a given interval in Python?
+Answer 19.
+# Python program to display all the prime numbers within an interval
+
+
+lower = 9
+upper = 100
+
+
+print("Prime numbers between", lower, "and", upper, "are:")
+
+
+for num in range(lower, upper + 1):
+  # all prime numbers are greater than 1
+  if num > 1:
+      for i in range(2, num):
+          if (num % i) == 0:
+              break
+      else:
+          print(num)
+
+
+
+
