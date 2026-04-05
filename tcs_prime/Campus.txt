@@ -1,0 +1,93 @@
+========================================
+TCS PRIME — CAMPUS INTERVIEW QUESTIONS (Set B)
+========================================
+
+OVERVIEW:
+This file contains an alternate set of interview questions tailored for campus-level candidates applying to the TCS Prime program. Use it for mock interviews and focused practice.
+
+---- INTRODUCTION / ICE-BREAKERS ----
+1) Introduce yourself in 2 minutes.
+2) Why did you choose your degree/stream?
+3) What was the most interesting course you took and why?
+4) Tell us about any internships or college projects.
+5) What are your hobbies and extracurricular activities?
+
+---- APTITUDE & LOGICAL ----
+6) Solve this: In a class of 120 students, 60% passed Mathematics and 70% passed Physics. At least how many passed both?
+7) If 5 workers can build 5 machines in 5 days, how many days will 10 workers take to build 10 machines?
+8) Basic probability: What is the probability of drawing two aces from a standard deck without replacement?
+9) Series and pattern: Find the next number: 2, 6, 12, 20, ?
+10) Time & work: A and B together can finish a job in 12 days; A alone finishes in 20 days. How long B alone?
+
+---- CODING (ENTRY / CAMPUS) ----
+11) Write a function to reverse a string in-place.
+12) Find the first non-repeating character in a string.
+13) Given an array, return indices of two numbers that add up to a target (Two-sum).
+14) Remove duplicates from a sorted array in-place.
+15) Merge two sorted linked lists and return the head of merged list.
+16) Check if a linked list is a palindrome.
+17) Given a binary tree, print its level-order traversal (BFS).
+18) Implement binary search on a sorted array (iterative and recursive).
+19) Count set bits in an integer.
+20) Find the Kth smallest/largest element in an unsorted array (explain approach).
+
+---- DATA STRUCTURES & ALGORITHMS ----
+21) Explain Big-O for common operations on Array, LinkedList, Stack, Queue, HashMap.
+22) Difference between Array and LinkedList — when to use which?
+23) What is a Hash Table? How do you handle collisions?
+24) Explain BFS vs DFS and one use-case for each.
+25) What is Dynamic Programming? Solve Fibonacci using DP.
+
+---- DATABASE & SQL ----
+26) Write an SQL query to find the second highest salary from Employee table.
+27) Explain the difference between INNER JOIN and LEFT JOIN with examples.
+28) What is normalization? Give an example of 1NF and 2NF.
+29) What are indexes and when would you use them?
+30) Explain transactions and ACID properties.
+
+---- WEB & REST ----
+31) What is REST? How is it different from SOAP?
+32) Explain HTTP status codes: 200, 201, 400, 401, 403, 404, 500.
+33) Difference between stateless and stateful services.
+34) What are cookies and sessions? When to use each?
+
+---- OPERATING SYSTEMS & NETWORKING ----
+35) What is the difference between a process and a thread?
+36) Explain deadlock and one way to prevent it.
+37) Difference between TCP and UDP.
+38) What is a port and how does DNS help clients find services?
+
+---- PROJECT & BEHAVIORAL ----
+39) Explain your final year project: problem, approach, and your contribution.
+40) Describe a technical challenge you faced and how you resolved it.
+41) How do you prioritize tasks under a deadline?
+42) Describe a conflict in a team and how you handled it.
+43) Where do you see yourself in 2-3 years?
+
+---- CAMPUS-SPECIFIC QUESTIONS ----
+44) Are you willing to relocate or work in rotational shifts?
+45) Are you comfortable with training programs post-selection?
+46) How do you plan to contribute to TCS Prime program’s learning path?
+47) Are you prepared to take assessments (coding + aptitude) on short notice?
+
+---- QUICK MOCK CODING LIST (15–30 MIN PRACTICE) ----
+- Reverse string / words
+- Two-sum / Pair sum
+- Valid parentheses
+- Merge two arrays
+- Reverse linked list (iterative)
+- Binary search
+- Count frequency of elements
+- BFS level order
+- Simple DP: Climbing stairs (ways to reach N)
+- Small SQL: GROUP BY with HAVING
+
+---- TIPS FOR CAMPUS INTERVIEWS ----
+- Start with a clear, brief introduction (30–60 seconds).
+- For coding: state the approach, write a correct brute-force first, then optimize.
+- Ask clarifying questions when problem statement is ambiguous.
+- Test edge cases and explain time/space complexity.
+- Show enthusiasm for learning and team collaboration.
+
+Good luck — practice consistently and do mock interviews often.
+
