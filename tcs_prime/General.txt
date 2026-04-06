@@ -1,0 +1,574 @@
+========================================
+TCS PRIME — GENERAL (Consolidated content)
+========================================
+
+========================================
+TCS PRIME INTERVIEW QUESTIONS
+========================================
+
+** INTERVIEW: 1 **
+
+TOTAL TIME FOR EXPLANATION: 75 MINUTES
+
+---- INTRODUCTION ----
+1) Tell me about yourself
+2) What is your educational background
+3) What are your technical skills
+4) Have you done any projects or internships
+
+---- CODING QUESTION ----
+5) Explain the coding question you solved in the coding round
+6) What was your approach and time complexity
+7) What optimization did you apply
+
+-------- DSA QUESTIONS --------
+8) What is Big O Notation and why is it important
+9) Difference between Array and LinkedList
+10) Explain Binary Search and its implementation
+11) Recursive approach of Binary Search
+12) Time and Space complexity of Binary Search
+13) What is the difference between Bubble Sort and Insertion Sort
+14) Explain Quick Sort and Merge Sort
+15) What is a Stack and Queue - explain with real-world examples
+16) Implement a Stack using Array and LinkedList
+17) Difference between Linear Search and Binary Search
+18) What is Hash Map and Hash Table
+
+--------- DATABASE QUESTIONS ---------
+19) What is SQL and NoSQL
+20) Explain Normalization and its forms (1NF, 2NF, 3NF, BCNF)
+21) What are Joins - Inner Join, Left Join, Right Join, Full Outer Join
+22) Difference between WHERE and HAVING clause
+23) What are Triggers and how do you create them
+24) What are Indexes and why are they important
+25) What is a Primary Key and Foreign Key
+26) Explain ACID properties in databases
+
+--------- WEB TECHNOLOGY QUESTIONS ---------
+27) What is REST API and how does it work
+28) What is HTTP and HTTPS
+29) Difference between HTTP methods - GET, POST, PUT, DELETE
+30) What is JSON and XML
+31) What is a Web Server and Application Server
+32) Explain MVC architecture
+33) What is OOP and its principles (Encapsulation, Abstraction, Inheritance, Polymorphism)
+
+--------- OPERATING SYSTEM QUESTIONS ---------
+34) What is an Operating System
+35) What is a Process and Thread - difference between them
+36) What is a Deadlock and when does it occur
+37) Conditions of Deadlock (4 necessary conditions)
+38) How to prevent Deadlock
+39) What is Process Scheduling
+40) Explain different scheduling algorithms (FCFS, SJF, Round Robin, Priority)
+
+--------- NETWORKING QUESTIONS ---------
+41) What is the OSI model and explain each layer
+42) What is TCP/IP model
+43) Difference between TCP and UDP
+44) What is IP address, Subnet mask, and Gateway
+45) Explain DNS and how it works
+46) What is Packet and Datagram
+
+--------- HR/BEHAVIORAL QUESTIONS ---------
+47) Why do you want to join TCS
+48) What do you know about TCS
+49) What are your strengths and weaknesses
+50) Tell me about a challenging project you worked on
+51) How do you handle difficult situations
+52) Where do you see yourself in 5 years
+53) Are you willing to relocate
+54) What is your salary expectation
+55) Do you have any questions for us
+
+========================================
+
+** INTERVIEW: 2 **
+
+FOCUS AREAS: Full Stack Development & System Design
+
+---- INTRODUCTION & PROJECTS ----
+1) Brief introduction of yourself
+2) Tell me about your major project
+3) What technologies did you use and why
+4) What was the most challenging part
+5) What did you learn from this project
+
+-------- ADVANCED DSA QUESTIONS --------
+6) Explain Tree data structure and types (Binary Tree, BST, AVL, Red-Black Tree)
+7) Tree Traversal methods (Inorder, Preorder, Postorder, Level Order)
+8) What is a Graph and types of Graphs
+9) Graph Traversal methods (DFS, BFS)
+10) Difference between DFS and BFS
+11) What is a String and common String problems
+12) Explain sorting algorithms and their time/space complexity
+13) What is Hashing and Hash Collision resolution techniques
+14) Explain Two Pointers technique and Sliding Window approach
+15) What are Dynamic Programming problems (explain with examples)
+
+-------- DATABASE ADVANCED QUESTIONS --------
+16) Explain Transactions and ACID properties with examples
+17) What is a View and Materialized View
+18) Explain Stored Procedures and Functions
+19) What is Query Optimization
+20) Explain Indexing strategies (B-tree, Hash Index, etc.)
+21) What is Database Replication and Partitioning
+22) Write complex SQL queries with JOIN, GROUP BY, HAVING
+
+--------- JAVA / PYTHON SPECIFIC QUESTIONS ---------
+
+If Java:
+23) Explain Collections Framework
+24) What is ArrayList vs LinkedList
+25) Explain HashMap and its internal working
+26) What is Thread and Multithreading
+27) Explain Lifecycle of a Thread
+28) What is Synchronization and how to prevent race conditions
+29) Explain Exception Handling
+30) What is Inheritance and Polymorphism in Java
+
+If Python:
+23) What is Python and its advantages
+24) Difference between List, Tuple, Set, and Dictionary
+25) What is Lambda function and map, filter, reduce
+26) Explain list comprehension
+27) What is a Generator
+28) Explain decorators in Python
+29) What is Exception Handling
+30) What are modules and packages
+
+--------- WEB APPLICATION QUESTIONS ---------
+31) Explain MVC and MVT architecture
+32) What is a Controller and View
+33) Explain URL routing
+34) What is Middleware
+35) Explain Authentication and Authorization
+36) What is Session and Cookies
+37) Explain CORS (Cross-Origin Resource Sharing)
+38) What is API versioning
+
+--------- SYSTEM DESIGN (BASICS) ---------
+39) How would you design a URL shortening service
+40) How would you design a Chat application
+41) Explain Scalability vs Performance
+42) What is Load Balancing
+43) What is Caching and types of caching
+44) Explain Microservices architecture
+45) What is Docker and Containerization
+
+--------- BEHAVIORAL & SITUATIONAL QUESTIONS ---------
+46) Describe a situation where you had to learn a new technology quickly
+47) Tell me about a time when you faced a bug - how did you debug it
+48) Have you worked in a team - tell me about your team experience
+49) How do you handle tight deadlines
+50) Tell me about your failure and what you learned from it
+
+-------- MANAGER ROUND QUESTIONS --------
+51) Why do you think you are the right fit for this role
+52) How do you stay updated with latest technologies
+53) Tell me about your achievements
+54) How do you approach problem-solving
+55) What are your career goals
+
+-------- HR ROUND QUESTIONS --------
+56) Why should we hire you
+57) What makes you unique
+58) Tell me about TCS and why you want to join
+59) Are you ready to relocate and work on rotational shifts
+60) Do you have any questions for us
+
+=========================================
+
+** INTERVIEW: 3 **
+
+FOCUS AREAS: Problem-Solving & Coding Scenarios
+
+---- INTRODUCTION (2-3 minutes) ----
+1) Introduce yourself briefly
+2) What is your current skill level in programming
+3) Have you solved any challenging problems before
+
+------------ CODING PROBLEMS (Main Focus) -----------
+
+8) FizzBuzz Problem
+9) Implement Palindrome Check
+10) Print Fibonacci sequence up to N
+11) Find the largest element in an array
+12) Reverse a string/array
+13) Check if two arrays/strings are anagrams
+14) Find pairs with given sum in array
+15) Remove duplicates from array/string
+16) Rotate array by K positions
+17) Count occurrences of each element
+
+----- INTERMEDIATE CODING PROBLEMS -----
+18) Implement Stack and Queue from scratch
+19) Reverse a LinkedList
+20) Merge two sorted arrays
+21) Find Kth largest element in array
+22) Longest common subsequence
+23) Number of islands problem (Graph/Matrix)
+24) Word search in 2D matrix
+25) Trapping rain water problem
+26) Median of two sorted arrays
+
+------- DATA STRUCTURES IMPLEMENTATION -------
+27) Implement Binary Search Tree (BST)
+28) Implement LRU Cache
+29) Implement Trie data structure
+30) Implement Graph (Adjacency List)
+31) Implement Priority Queue/Heap
+
+--------- JAVA / PYTHON IMPLEMENTATION --------
+
+If Java:
+32) What is Comparable and Comparator
+33) How to sort custom objects
+34) Explain String Builder vs String Buffer
+35) What is Reflection API
+36) Explain Generics in Java
+
+If Python:
+32) Explain *args and **kwargs
+33) What is Property decorator
+34) Explain GIL (Global Interpreter Lock)
+35) What are closures
+36) Explain Type hints
+
+--------- DATABASE SQL PROBLEMS ---------
+37) Write query to find second highest salary
+38) Write query to find employees in each department
+39) Write query with GROUP BY and having multiple conditions
+40) Write self-join query
+41) Write query using window functions (ROW_NUMBER, RANK)
+42) Explain Normalization with examples
+
+--------- SYSTEM DESIGN SCENARIO ---------
+43) Design a simple e-commerce system
+44) Design a Library Management System
+45) Design a Blog/Social Media Post System
+46) Design an Online Voting System
+
+--------- BEHAVIORAL QUESTIONS ---------
+47) Tell me about the most complex problem you solved
+48) How do you approach an unknown problem
+49) Tell me about your teamwork experience
+50) How do you handle code review feedback
+
+--------- TECHNICAL DISCUSSION ---------
+51) Discuss optimization techniques you know
+52) Explain the importance of code readability
+53) How do you ensure your code is maintainable
+54) What are best practices in coding
+55) Discuss version control and Git basics
+
+--------- FINAL HR QUESTIONS ---------
+56) Why the gap in employment (if any)
+57) What are your expectations from this role
+58) How quickly can you join
+59) Do you have any questions for us
+
+=========================================
+
+** IMPORTANT TOPICS TO PREPARE **
+
+1. DATA STRUCTURES:
+	- Arrays, Linked Lists, Stacks, Queues
+	- Trees (Binary Tree, BST, AVL, Heap)
+	- Graphs (DFS, BFS, Dijkstra, Floyd-Warshall)
+	- Hash Maps, Tries
+
+2. ALGORITHMS:
+	- Sorting (Bubble, Merge, Quick, Insertion)
+	- Searching (Linear, Binary)
+	- Dynamic Programming basics
+	- Greedy algorithms
+
+3. DATABASE:
+	- SQL basics and advanced queries
+	- Normalization and ACID properties
+	- Indexes and Query optimization
+	- Transactions and Concurrency
+
+4. OOP CONCEPTS:
+	- Encapsulation, Abstraction, Inheritance, Polymorphism
+	- Design Patterns (Singleton, Factory, Observer, MVC)
+	- SOLID principles basics
+
+5. WEB TECHNOLOGIES:
+	- REST API concepts
+	- HTTP methods and status codes
+	- Authentication and Authorization
+	- Client-Server architecture
+
+6. OPERATING SYSTEMS:
+	- Process and Threads
+	- Process Scheduling
+	- Memory Management
+	- Deadlock prevention and recovery
+
+7. NETWORKING:
+	- OSI Model layers
+	- TCP/IP protocol
+	- DNS, HTTP/HTTPS
+	- IP addressing
+
+8. CODING PRACTICE:
+	- Solve 50-100 medium difficulty problems on LeetCode/HackerRank
+	- Practice at least 2 projects from scratch
+	- Time your solving - aim for 15-20 min per medium problem
+
+========================================
+
+** PREPARATION TIMELINE **
+
+** WEEK 1-2: CORE DSA **
+- Focus on Arrays, Strings, LinkedList
+- Practice basic sorting and searching
+- Solve problems on fundamental topics
+
+** WEEK 3-4: ADVANCED DSA **
+- Trees, Graphs, Heaps, Hash Maps
+- DP concepts
+- Complex problem solving
+
+** WEEK 5: DATABASE & SQL **
+- SQL query writing
+- Complex join problems
+- Normalization concepts
+
+** WEEK 6: LANGUAGE SPECIFIC & OOP **
+- Java/Python specific features
+- Collections Framework or equivalent
+- Design Patterns
+
+** WEEK 7: SYSTEM DESIGN & ARCHITECTURE **
+- Design scalable systems
+- MVC/Microservices concepts
+- Load balancing and caching
+
+** WEEK 8: FINAL REVISION & MOCK INTERVIEWS **
+- Solve 20-30 new problems
+- Take 2-3 mock interviews
+- Revise HR questions
+- Practice speaking clearly
+
+========================================
+
+** TIPS FOR TCS PRIME INTERVIEW **
+
+1. TIME MANAGEMENT:
+	- Solve the coding problem completely within 30-40 minutes
+	- Test your solution with edge cases
+	- Explain your approach clearly
+
+2. COMMUNICATION:
+	- Explain your thought process while coding
+	- Ask clarification questions if problem is unclear
+	- Discuss trade-offs in your solution
+
+3. CODE QUALITY:
+	- Write clean, readable code
+	- Use meaningful variable names
+	- Add comments where necessary
+	- Handle edge cases
+
+4. PROBLEM SOLVING:
+	- Start with brute force approach
+	- Then optimize to better time/space complexity
+	- Discuss multiple approaches if possible
+
+5. HR INTERVIEW:
+	- Research about TCS before interview
+	- Prepare 2-3 questions to ask the interviewer
+	- Show enthusiasm and genuine interest
+	- Be honest about your strengths and weaknesses
+
+6. GENERAL TIPS:
+	- Get good sleep night before interview
+	- Arrive 10-15 minutes early
+	- Make eye contact and smile
+	- Be confident but humble
+	- Follow up with thank you message
+
+========================================
+
+Good Luck with your TCS Prime Interview! 
+
+Remember: Practice consistently, understand concepts deeply, and communicate clearly.
+
+========================================
+
+TCS PRIME — CAMPUS INTERVIEW QUESTIONS (Set B)
+========================================
+
+OVERVIEW:
+This file contains an alternate set of interview questions tailored for campus-level candidates applying to the TCS Prime program. Use it for mock interviews and focused practice.
+
+---- INTRODUCTION / ICE-BREAKERS ----
+1) Introduce yourself in 2 minutes.
+2) Why did you choose your degree/stream?
+3) What was the most interesting course you took and why?
+4) Tell us about any internships or college projects.
+5) What are your hobbies and extracurricular activities?
+
+---- APTITUDE & LOGICAL ----
+6) Solve this: In a class of 120 students, 60% passed Mathematics and 70% passed Physics. At least how many passed both?
+7) If 5 workers can build 5 machines in 5 days, how many days will 10 workers take to build 10 machines?
+8) Basic probability: What is the probability of drawing two aces from a standard deck without replacement?
+9) Series and pattern: Find the next number: 2, 6, 12, 20, ?
+10) Time & work: A and B together can finish a job in 12 days; A alone finishes in 20 days. How long B alone?
+
+---- CODING (ENTRY / CAMPUS) ----
+11) Write a function to reverse a string in-place.
+12) Find the first non-repeating character in a string.
+13) Given an array, return indices of two numbers that add up to a target (Two-sum).
+14) Remove duplicates from a sorted array in-place.
+15) Merge two sorted linked lists and return the head of merged list.
+16) Check if a linked list is a palindrome.
+17) Given a binary tree, print its level-order traversal (BFS).
+18) Implement binary search on a sorted array (iterative and recursive).
+19) Count set bits in an integer.
+20) Find the Kth smallest/largest element in an unsorted array (explain approach).
+
+---- DATA STRUCTURES & ALGORITHMS ----
+21) Explain Big-O for common operations on Array, LinkedList, Stack, Queue, HashMap.
+22) Difference between Array and LinkedList — when to use which?
+23) What is a Hash Table? How do you handle collisions?
+24) Explain BFS vs DFS and one use-case for each.
+25) What is Dynamic Programming? Solve Fibonacci using DP.
+
+---- DATABASE & SQL ----
+26) Write an SQL query to find the second highest salary from Employee table.
+27) Explain the difference between INNER JOIN and LEFT JOIN with examples.
+28) What is normalization? Give an example of 1NF and 2NF.
+29) What are indexes and when would you use them?
+30) Explain transactions and ACID properties.
+
+---- WEB & REST ----
+31) What is REST? How is it different from SOAP?
+32) Explain HTTP status codes: 200, 201, 400, 401, 403, 404, 500.
+33) Difference between stateless and stateful services.
+34) What are cookies and sessions? When to use each?
+
+---- OPERATING SYSTEMS & NETWORKING ----
+35) What is the difference between a process and a thread?
+36) Explain deadlock and one way to prevent it.
+37) Difference between TCP and UDP.
+38) What is a port and how does DNS help clients find services?
+
+---- PROJECT & BEHAVIORAL ----
+39) Explain your final year project: problem, approach, and your contribution.
+40) Describe a technical challenge you faced and how you resolved it.
+41) How do you prioritize tasks under a deadline?
+42) Describe a conflict in a team and how you handled it.
+43) Where do you see yourself in 2-3 years?
+
+---- CAMPUS-SPECIFIC QUESTIONS ----
+44) Are you willing to relocate or work in rotational shifts?
+45) Are you comfortable with training programs post-selection?
+46) How do you plan to contribute to TCS Prime program’s learning path?
+47) Are you prepared to take assessments (coding + aptitude) on short notice?
+
+---- QUICK MOCK CODING LIST (15–30 MIN PRACTICE) ----
+- Reverse string / words
+- Two-sum / Pair sum
+- Valid parentheses
+- Merge two arrays
+- Reverse linked list (iterative)
+- Binary search
+- Count frequency of elements
+- BFS level order
+- Simple DP: Climbing stairs (ways to reach N)
+- Small SQL: GROUP BY with HAVING
+
+---- TIPS FOR CAMPUS INTERVIEWS ----
+- Start with a clear, brief introduction (30–60 seconds).
+- For coding: state the approach, write a correct brute-force first, then optimize.
+- Ask clarifying questions when problem statement is ambiguous.
+- Test edge cases and explain time/space complexity.
+- Show enthusiasm for learning and team collaboration.
+
+Good luck — practice consistently and do mock interviews often.
+
+========================================
+
+CONSOLIDATED TOPIC SUMMARIES
+========================================
+
+DSA (Data Structures & Algorithms)
+- Core Topics: Arrays, LinkedList, Stack, Queue, Trees (BST/AVL), Graphs, Heaps, Tries, HashMaps, Sorting, Searching, Dynamic Programming.
+- Big-O Notation: Describes asymptotic upper bound; common examples: O(1), O(log n), O(n), O(n log n), O(n^2). Use Big‑O for comparing scalability.
+- Binary Search: Works on sorted arrays by halving search space. Iterative complexity O(log n) time, O(1) extra space. Recursive uses O(log n) stack. Example (Python):
+```
+def binary_search(a, target):
+	 lo, hi = 0, len(a)-1
+	 while lo <= hi:
+		  mid = (lo+hi)//2
+		  if a[mid]==target: return mid
+		  if a[mid] < target: lo = mid+1
+		  else: hi = mid-1
+	 return -1
+```
+- Sorting (Quick vs Merge): Quick Sort average O(n log n), worst O(n^2), in-place but unstable; Merge Sort stable, always O(n log n), needs O(n) extra space. Choose Merge for stability/guarantee, Quick for in-place with good average case.
+- Stack / Queue: Stack LIFO (use for DFS, call stack). Queue FIFO (BFS, job scheduling). Implement with arrays or linked lists — push/pop amortized O(1).
+- HashMap / Hash Table: Average O(1) lookup; collisions via chaining or open addressing; resizing keeps load factor bounded.
+- Dynamic Programming: Identify overlapping subproblems + optimal substructure. Use memoization (top-down) or tabulation (bottom-up). Typical problems: knapsack, LIS, Fibonacci, DP on trees/strings.
+- Interview approach (DSA): Clarify requirements → give brute-force → optimize (time/space) → write clean code → test edge cases → state complexity and trade-offs.
+
+Database (SQL / NoSQL)
+- SQL vs NoSQL: SQL = relational, ACID, structured schemas (Postgres/MySQL). NoSQL = key-value/document/column-family/graph (Mongo/Cassandra), better for unstructured data and horizontal scaling.
+- Normalization: 1NF (atomic values), 2NF (no partial dependency on PK), 3NF (no transitive dependency), BCNF (every determinant is a candidate key). Use normalization to reduce redundancy; denormalize for read performance when needed.
+- Joins & Clauses: INNER JOIN (intersection), LEFT JOIN (keep left), RIGHT JOIN (keep right), FULL OUTER (both). WHERE filters rows before aggregation; HAVING filters groups after aggregation.
+- Indexes: B-tree indexes for range queries, hash indexes for equality; indexes speed reads, slow writes and use space. Use composite and covering indexes to optimize queries. Use EXPLAIN to inspect plans.
+- Transactions & ACID: Atomicity, Consistency, Isolation, Durability. Mention isolation levels (Read Uncommitted → Read Committed → Repeatable Read → Serializable) and trade-offs (performance vs anomalies).
+- Triggers / Stored Procedures: Triggers run on table events; procedures encapsulate logic on DB side — use judiciously for consistency, avoid complex business logic in DB if it hurts portability.
+- Sample SQL (2nd highest salary):
+```
+-- using subquery
+SELECT MAX(salary) FROM employees WHERE salary < (SELECT MAX(salary) FROM employees);
+
+-- using window function
+SELECT salary FROM (
+  SELECT salary, DENSE_RANK() OVER (ORDER BY salary DESC) r FROM employees
+) t WHERE r = 2;
+```
+
+Web Technologies (REST, HTTP, JSON, MVC)
+- REST API: Resource-based URIs, stateless, use correct HTTP verbs (GET/POST/PUT/PATCH/DELETE), return meaningful status codes (200/201/204/400/401/403/404/500). Document via OpenAPI/Swagger.
+- HTTP vs HTTPS: HTTPS = HTTP over TLS (encryption + server auth). Always use HTTPS in production.
+- HTTP Methods: GET (safe, idempotent), POST (create, not idempotent), PUT (replace, idempotent), PATCH (partial update), DELETE (idempotent).
+- JSON vs XML: JSON preferred for REST: lighter, native to JS; XML used where schemas/complex documents are needed.
+- Auth & Security: Sessions/cookies vs token-based (JWT). Protect against CSRF, XSS, SQL injection; use input validation and parameterized queries.
+- CORS & Preflight: Browser-enforced cross-origin policy; configure server Access-Control-Allow-* headers; preflight OPTIONS check for non-simple requests.
+- MVC / Architecture: Model = data, View = UI, Controller = request logic. For large systems discuss layering, caching, rate-limiting, and monitoring.
+
+Operating Systems (OS)
+- OS role: Manages hardware, processes, memory, file systems, I/O, and provides abstractions.
+- Process vs Thread: Process = independent address space; thread = lightweight execution unit sharing memory. Threads cheaper to create, faster context switch, but need synchronization.
+- Deadlock: Occurs when four conditions hold: mutual exclusion, hold-and-wait, no preemption, circular wait. Prevent via resource ordering, avoid hold-and-wait, or use timeouts and deadlock detection with rollback.
+- Scheduling: FCFS (simple), SJF (minimize average wait), Round Robin (fair, uses time quantum), Priority (may starve low-priority). Know preemptive vs non-preemptive differences.
+- Concurrency primitives: Mutex (binary lock), Semaphore (counting), Condition variables, Monitors. Use them to synchronize shared state and avoid race conditions.
+
+Networking
+- OSI Model (7 layers): Physical (bits), Data Link (frames, MAC), Network (routing, IP), Transport (end-to-end, TCP/UDP), Session (sessions), Presentation (format/encoding), Application (HTTP/DNS). Be able to map TCP/IP stack to OSI.
+- TCP vs UDP: TCP = reliable, ordered, connection-oriented; UDP = unreliable, low-latency, connectionless (useful for streaming, DNS).
+- IP / Subnet / Gateway: IP = host address; subnet mask defines network bits; gateway routes packets outside local network. Know CIDR notation (e.g., /24).
+- DNS: Translates domain names to IPs via recursive/iterative queries; caches at resolver and client. Understand A/AAAA/CNAME/MX records.
+- Packets & Ports: Packet = unit of data at network layer; ports identify application endpoints (e.g., 80/443). Explain NAT basics if asked.
+
+HR / Behavioral
+- Tell me about yourself: 30–60s pitch: education → 1–2 key technical strengths → one major project → what you want next. Keep it role-focused.
+- Strengths & Weaknesses: Strength = concrete example + impact. Weakness = real shortcoming + steps taken to improve. Avoid clichés.
+- Behavioral answers (STAR): Situation, Task, Action, Result — use metrics when possible. Example: “Reduced test runtime by 40% by refactoring X; result: Y.”
+- Why TCS / Relocation / Salary: Show company research, align skills to role, express flexibility on location and reasonable salary expectations; give a range based on market research.
+- Questions to ask interviewer: Team structure; success metrics for role; onboarding/training; current technical challenges.
+
+NEXT STEPS / PRACTICE SUGGESTIONS
+- Choose focused expansions: full DSA Q&A, detailed DB examples, mock interview script, or a curated practice problem set.
+- Use the STAR method for behavioral answers and quantify achievements where possible.
+- Time-box coding practice: aim for 15–25 minutes per medium problem; review and optimize afterward.
+
+========================================
+End of consolidated content.
+
