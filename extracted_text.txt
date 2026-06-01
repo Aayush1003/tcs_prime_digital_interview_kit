@@ -1,0 +1,1105 @@
+
+
+--- Page 1 ---
+
+TCS NQT 2020 24th Oct 1 pm to 4 pm Slot Analysis
+ object oriented programming language (Indo French Educational Trust College of
+ Engineering)
+Scan to open on Studocu
+Studocu is not sponsored or endorsed by any college or university
+ TCS NQT 2020 24th Oct 1 pm to 4 pm Slot Analysis
+ object oriented programming language (Indo French Educational Trust College of
+ Engineering)
+Scan to open on Studocu
+Studocu is not sponsored or endorsed by any college or university
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 2 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+This document details the Slot Analysis as well as Answers to Questions that students recollected post 
+their TCS NQT (Slot 2) on 24th October 2020.  
+ 
+ 
+Disclaimer: 
+1. The questions showcased in this document have been recreated through memory, thanks to test-
+takers who recalled the questions post their test.  
+2. The question repetition between slots is very miniscule. 
+3. Please use this document as an indicative preparation tool, rather than an exact replica of questions 
+that appeared or can appear in the TCS NQT. 
+ 
+ 
+Contents 
+TCS NQT Online Test Pattern ................................ ................................ ................................ ..... 1 
+Syllabus ................................ ................................ ................................ ................................ ... 2 
+Slot Analysis ................................ ................................ ................................ ............................ 3 
+Questions with Answers: ................................ ................................ ................................ .......... 4 
+Numerical Ability ................................ ................................ ................................ .................. 4 
+Verbal Ability ................................ ................................ ................................ ......................10 
+Reasoning Ability ................................ ................................ ................................ .................14 
+Programming Logic ................................ ................................ ................................ ..............18 
+Coding ................................ ................................ ................................ ................................ 22 
+ 
+ 
+TCS NQT Online Test Pattern 
+The pattern that was followed for the TCS NQT was as follows. 
+ 
+Section Order Section # Qs Duration (minutes) 
+1 Numerical Ability 26 40 
+2 Verbal Ability 24 30 
+3 Reasoning Ability 30 50 
+4 Programming Logic 10 15 
+5 Coding 2 45 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 3 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+ 
+Syllabus 
+The following was the syllabus which was tested in the slot. 
+ 
+Numerical ability: 
+• Data Interpretation 
+• Statistics  
+• Time and Work 
+• Mensuration 
+• Number System 
+• Time, Speed and Distance 
+• Ratio and Proportions 
+• Linear Equations 
+• Simple Interest and Compound Interest 
+• Percentages 
+• Profit and Loss 
+• Weighted average 
+ 
+Verbal Ability: 
+• Reading comprehension 
+• Sentence correction 
+• Sentence completion 
+• Passage Completion - Missing words (Cloze passage) 
+• Knowledge of Formal/Informal language 
+ 
+Reasoning Ability: 
+• Attention to detail 
+• Unboxing a cube 
+• Data Arrangements 
+• Coding and Decoding 
+• Cuts and unfolds 
+• Venn diagrams 
+• Blood relations 
+• Data Interpretation 
+• Visual reasoning 
+• Syllogisms 
+• Statements and Assumptions 
+ 
+ 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 4 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+Programming MCQ's: 
+• Operators 
+• Looping statements 
+• Control statements 
+• Arrays 
+• Strings 
+• Functions 
+• Object Oriented Programming (OOPS) 
+• Standard Template Libraries (STL) 
+• Object Modeling 
+• Compiler Design 
+• Threading 
+• Data Structures: Linked List, Stack, Queue, Trees and Graphs 
+• Recursion 
+• Pseudocoding 
+• Algorithms 
+• Basic Software Development Cycle 
+• Collections 
+ 
+Coding: 
+ 
+• Fundamentals of Programming - Conditional and looping statements, Arrays, Strings. 
+Slot Analysis 
+• The assessment platform used was TCS iON. 
+• As already revealed during the DRC and by FACE Prep, both intra-sectional and inter-sectional 
+navigation were not possible. 
+• Every question was mandatory, and only upon completing a question would you be able to go to 
+the next question. 
+• Revisiting of answers already submitted is not possible. 
+• There was no negative marking. 
+• All test-takers within the slot got the same questions.  
+• The test was NOT Adaptive, for a lot of other websites incorrectly communicated this to 
+students. FACE Prep accurately pointed out that the test was not adaptive – just that the test 
+had no intra-sectional and inter-sectional navigation. 
+• There was 100% repetition of topics, as accurately predicted by FACE Prep. 
+• There was the presence of an on-screen calculator, which candidates could use. 
+• As clearly pointed out in the test instructions by TCS, if one had to do rough work, it must be 
+visible clearly in the webcam that one is doing rough work and not performing any malpractice. 
+This has also been accurately pointed out by FACE Prep earlier. 
+• Apart from a very few questions repeated from Slot 1, most of the questions in Slot 2 were new. 
+• Types of Aptitude questions appeared in Slot 2 were similar to Slot 1 questions.  
+• There were two Fill in the Blanks type questions in the programming MCQs section. 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 5 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+Questions with Answers: 
+Numerical Ability 
+Q1. What is the fourth proportional of 0.006,1.2 & 6/25 ? 
+ 
+A. 36 
+B. 48 
+C. 4.8 
+D. 3.6 
+ 
+Answer: Option B  
+ 
+Q2. The present ages of three brothers are in the proportion 12:14:17. The difference between 
+the ages of the elder and the eldest is 6 years. What will be the proportion of their ages after 
+four years? 
+ 
+A. 14:16:19 
+B. 40:46:55 
+C. 16:18:21 
+D. 13:15:18 
+ 
+Answer: Option A 
+ 
+Q3. Two ants of length 1cm and 1.2 cm crawl in opposite directions with average speeds 2 and 
+1 mm per second respectively. How many seconds will they take to cross each other? 
+A. 4.4 
+B. 2.8 
+C. 0.4 
+D. 1.5 
+ 
+Answer: Option A 
+ 
+Q4. The index numbers of five commodities are 121,123,125,126,128 and the weights assigned 
+to these are respectively 5,11,10,8,6. Then what is the weighted average index number? 
+A. 123.8 
+B. 124.2 
+C. 124.6 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 6 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+D. 125.2 
+ 
+Answer: Option C 
+ 
+Q5. Which one among the following has the least value? 
+A. √75 - √74 
+B. √74 - √73 
+C. √77 - √76 
+D. √76 - √75 
+ 
+Answer: Option C 
+ 
+Q6. The Range and the Standard Deviation of a data are R & S respectively. With the shift of 
+origin of the data change(s) occur in the value(s) of: 
+A. Both R & S 
+B. Neither R nor S 
+C. R only 
+D. S only 
+ 
+Answer: Option B 
+ 
+Q7. A sum was lent to X for three years by an organisation who fixed a yearly rate of 10% 
+compound Interest for repayment along with the condition of recovery in equal installments of 
+Rs.31944. What percentage (correct to two decimal places) above the borrowed amount had X 
+to pay the organization? 
+A. 18.43 
+B. 21.25 
+C. 16.52 
+D. 20.63 
+ 
+Answer: Option D 
+ 
+Q8. A retailer purchased 25 identical toys for a price Rs P and sold some of them for Rs P. If he 
+calculated his profit as 8%, with selling price as base instead of cost price then how many did he 
+sell? 
+A. 24 
+B. 20 
+C. 21 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 7 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+D. 23 
+ 
+Answer: Option D 
+ 
+Q9. The Table below presents the percentage marks obtained by three students A, Y, Z in the 
+four components of assessment, A, B, C, D of a paper whose respective weightages are 4, 3, 2, 
+2, 1.  
+ 
+Students/Marks A B C D 
+X 78 85 72 76 
+Y 65 68 64 73 
+Z 82 76 81 75 
+ 
+What is the ratio of the average percentage of X in A, B to that of Y, Z combined in C, D? 
+A. 324:283 
+B. 326:293 
+C. 28:25 
+D. 81:73 
+ 
+Answer: Option D 
+ 
+Q10. A city water supply tank has two inlet pipes X and Y, which can fill it in 20 and 30 hours 
+respectively, and an outlet pipe Z which can empty a full tank in 40 hours. If the tank is empty 
+and the taps are opened in succession for one hour each, and the process continues, in how 
+many hours will the tank get filled? 
+A. 49 1/4 
+B. 51 3/7 
+C. 49 ½ 
+D. 49 1/7 
+ 
+Answer: Option C 
+ 
+Q11. A sum of Rs.12500 is invested on 1st January 2016 at 4% simple interest p.a. How much 
+interest in RS. gets accrued on the end of the day on 1st July 2016? 
+A. 240 
+B. 400 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 8 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+C. 250 
+D. 500 
+ 
+Answer: Option C 
+ 
+Q12. What is the real value of (0.000314 + 0.000198)^(1/3)? 
+A. 0.04 
+B. 0.08 
+C. 0.8 
+D. 0.4 
+ 
+Answer: Option B 
+ 
+Q13. What is the simplified value of (10/15*6)[22/2/5 of [(64-2*8) +2]-⅖? 
+A. 6 
+B. 4 
+C. 5 
+D. 2 
+ 
+Answer: Option B 
+ 
+Q14. A man who has to walk 11Km, finds that in 30 minutes he has travelled two-ninth of the 
+remaining distance. What is his speed in Km/h? 
+A. 4.8 
+B. 4 
+C. 4.2 
+D. 4.5 
+ 
+Answer: Option B 
+ 
+Q15. Six square plots are connected end to end to obtain a rectangular plot area 726 m2. If we 
+take, π=22/7, by what factor is the perimeter of this plot more than that of the circumference 
+of a circle of radius 10m? 
+A. 1.45 
+B. 2.45 
+C. 2.1 
+D. 2.8 
+ 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 9 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+Answer: Option B 
+ 
+Q16. The mean and standard deviation of the data which is comprised of a set of ten positive 
+numbers are 8 and 2 respectively. If the sum of squares of time along with ten numbers is 
+599.What is the tenth number? 
+A. 7 
+B. 8 
+C. 9 
+D. 11 
+ 
+Answer: Option C 
+ 
+Q17. With what value should the highest quantity in data 65,52,14,26,18,35,32,38 be replaced 
+so that the mean and median become equal? 
+A. 51 
+B. 66 
+C. 64 
+D. 53 
+ 
+Answer: Option D 
+ 
+Q18. A work is assigned to 6 men and 12 women and they could complete it  in 3 days. It was 
+also observed that together they can do 7 times as much work a man and a woman can do.In 
+how many days would 14 women have done the work? 
+A. 10 
+B. 6 
+C. 12 
+D. 9 
+ 
+Answer: Option D 
+ 
+Q19. If the HCF of 180 and 432 is expressed as (180m + 432n), where m and n are integers, then 
+what is the difference between m and n? 
+A. 3 
+B. 7 
+C. 9 
+D. 8  
+ 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 10 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+Answer: Option B 
+ 
+Q20.If (x+10)% of 240 is 60% more than x% of 180, then 15% of (x+20) is what percent less than 
+25% of x? 
+ 
+A. 16 
+B. 15 
+C. 15 ½ 
+D. 191/21  
+ 
+Answer: Option A 
+ 
+Q21. A sales representative ‘s commission is 6% on all sales upto Rs.15000nand 5% on all sales 
+exceeding this. He remits Rs.47350 to his company after deducting his commission. What were 
+the total sales? 
+A. Rs.49000 
+B. Rs.47500 
+C. Rs.50500 
+D. Rs.50000 
+ 
+Answer: Option D 
+ 
+ 
+Q22. The sales (in multiples of hundred) of three brands A, B, C of car from a showroom during 
+four consecutive years, 2012 - 2015 have been presented through the Bar Graph given below. 
+ 
+In which year is the sale of A and B together is 125% of that of C? 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 11 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+A. 2013 
+B. 2014 
+C. 2015 
+D. 2012 
+ 
+Answer: Option D 
+ 
+Q23. The List Price of an item was kept 40% above what the shopkeeper had paid to the 
+manufacturer. On selling the item a profit of 8.64% was earned after allowing two successive 
+discounts, the first one of which was 20%. What was the percentage of the second discount? 
+A. 3.25 
+B. 3.6 
+C. 3.84 
+D. 3 
+ 
+Answer: Option D 
+Verbal Ability 
+Q1. For the four sentence (S1 to S4) paragraph given below, sentences S1 & S4 are given. From 
+the options P,Q and R, choose appropriate sentences for S2 & S3. 
+ 
+S-1: Some of the earliest currencies were objects from nature 
+S-2: 
+S-3: 
+S-4: They were similar in size, small and durable 
+ 
+P. Although they may seem a pretty random choice the shells had a number of advantages 
+Q. A notable example is cowne shells first used as money about 1200 BCE 
+R. Counterfeiting dates to the invention of money. 
+ 
+A.QP 
+B.RQ 
+C.PQ 
+D.PR 
+ 
+Answer: Option A 
+ 
+Q2. As it was his first job, Abhishek threw himself ______ it_____ a lot of enthusiasm. 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 12 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+ 
+A. Into,with 
+B. At,with 
+C. Across,in 
+D. Over,from 
+ 
+Answer: Option A 
+ 
+Q3. Since sunrise to sunset my grandmother would sit by her wheel spinning and reciting 
+prayers. 
+A. No error 
+B. My grandmother would sit by her wheel 
+C. Spinning and reciting prayers 
+D. Since sunrise to sunset 
+ 
+Answer: Option D 
+ 
+Q4. For the four sentence (S1 to S4) paragraph given below, sentences S1 & S4 are given. From 
+the options P,Q and R, choose appropriate sentences for S2 & S3. 
+S-1: Eight months ago, it was business as usual at the cafe. 
+S-2: 
+S-3: 
+S-4: I checked the miniature circuit breaker and realized it had tripped: 
+ 
+P: Around six in the evening there was fluctuation and the lights went off.  
+Q: I pulled the miniature circuit breaker switch back and it was fine again. 
+R: The days were warm and so the air conditioners were in full force. 
+ 
+A. RP 
+B. QR 
+C. PQ 
+D. RQ 
+ 
+Answer: Option A 
+ 
+Q5. The Candidate ___________certificates the office could not verify were not permitted to 
+appear before the interview board. 
+ 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 13 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+A. Whom 
+B. Whose 
+C. Who 
+D. Which 
+ 
+Answer: Option B 
+ 
+Q6 - Q8 Read  the passage given below and answer questions. 
+It’s apparently humankind’s fate never to stop writing the history of pandemics. No matter how 
+often they occur—and they do occur with great frequency—we collectively refuse to think 
+about them until circumstances demand it. Then, when the immediate crisis passes, we put it 
+out of our minds as quickly as possible. And so we again are unprepared when the next 
+contagion—in this case, COVID-19—bursts upon us. Richard Conniff traces this alarming cycle in 
+“How devastating pandemics change us,” this month’s cover story. It examines our long 
+relationship with infectious diseases, from the hard lessons we’ve been forced to learn to the 
+brave, and often difficult, characters who’ve risked their lives to save us. 
+ 
+Smallpox taught us that we could prevent disease through inoculation and, as the 1700s ended, 
+vaccination. By the mid-1800s, cholera’s lesson was about sanitation and the need for 
+centralized water and sewer systems. About the same time, one man we’ve all heard of, Louis 
+Pasteur, and one many of us haven’t, Robert Koch, became the co-fathers of germ theory. Tools 
+they created are still used to identify and fight what Conniff calls “an astonishing rogues’ gallery 
+of deadly pathogens.” 
+ 
+And yet here we are, again, fighting on two fronts: the first, against a new coronavirus 
+sweeping the planet to devastating effect; the second, with each other, over domestic and 
+international politics and whether we’re willing to pay the price of prevention. 
+ 
+It’s an important question for our planet. While we debate, the next pandemic draws nearer. 
+ 
+Q6. Which statement is CORRECT according to the passage? 
+A. Research about vaccines is not reliable 
+B. All pandemics are not to be feared 
+C. Pandemics keep occurring periodically 
+D. There is no solution for a pandemic 
+ 
+Answer: Option C 
+ 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 14 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+Q7. In the fourth paragraph which pandemic is the author referring? 
+A. An unknown one 
+B. Small pox 
+C. COVID-19 
+D. Cholera 
+ 
+Answer: Option A 
+ 
+Q8. What does the writer imply that we should do? 
+A. Be vigilant about hygiene and health issues. 
+B. Wear masks when we step out of our homes. 
+C. Wash our hands and everything we touch carefully. 
+D. Maintain social distancing and avoid public gatherings. 
+ 
+Answer: Option A 
+ 
+Q9. The part of the sentence below may contain a grammatical error. Identify the part. 
+A high-end machine was inaugurate at the city’s Institute of Medical Sciences which will 
+facilitate 3000 RT PCR tests for Coronavirus in a day. 
+A. A high-end machine was inaugurate 
+B. at the city’s Institute of Medical Sciences 
+C. for Coronavirus in a day 
+D. which will facilitate 3000 RT-PCR tests. 
+ 
+Answer: Option A 
+ 
+Q10. Select the most appropriate option to complete the sentence. 
+It was _______ a new experience for me to attend a Zoom meeting so I planned for it 
+_________. 
+A. reasonably, basically 
+B. quite, carefully 
+C. really, terribly 
+D. surely, gently 
+ 
+Answer: Option B 
+ 
+Q11. The following sentence pair can be combined into a single sentence. Choose the sentence 
+that best combines the two sentences without changing the meaning. 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 15 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+Nikhil researched the topic well. He was able to do his Viva Voce well. 
+A. Nikhil researched the topic well unless he was able to do his Viva Voce well. 
+B. Nikhil was able to do his Viva Voce well despite he researched the topic well. 
+C. Nikhil researched the topic well therefore he was able to do his Viva Voce well. 
+D. Nikhil was able to do his Viva Voce well although he researched the topic well. 
+ 
+Answer: Option C 
+ 
+Q12. Which one of the following sentences uses formal language? 
+A. This presentation takes the cake! 
+B. Shall we put this on our agenda for the next client week? 
+C. I apologize for the technical glitch that occurred during our webinar yesterday. 
+D. I’m disappointed with the sales figures, they need to look up! 
+ 
+Answer: Option C 
+Reasoning Ability 
+Q1. Among 5 objects P,Q,R,S and T  
+i. R is twice as heavy as T 
+ii.S is one and half times as heavy as Q 
+iii.Q and R together weigh as much as S and T together 
+iv.P and S together are one and half time as heavy as Q and T together 
+ 
+Which among the five is the heaviest of all? 
+A. Q 
+B. S 
+C. P 
+D. R 
+ 
+Answer: Option B  
+ 
+Q2. In the following diagram, the triangle stands for ‘males’, the circle for ‘doctors’, the 
+rectangle for ‘government employed’, the hexagon for ‘corona warriors’. The numbers in 
+different segments show the number of persons for that segment. How many government 
+employed doctors are either corona warriors or males or both? 
+ 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 16 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+ 
+ 
+A. 22 
+B. 73 
+C. 35 
+D. 38 
+ 
+Answer: Option B 
+ 
+Q3. A statement followed by two assumptions numbered I and II. Consider the statement and 
+decide which of the given assumptions is implicit in the statement. 
+ 
+Statement: 
+Even though enough support is provided for potato production and its storage in cold 
+stores,the state will continue to import from other countries 
+Assumptions: 
+i. In Spite of the support the potato production and storage will not be able to meet the 
+demand for potatoes by the people in the store. 
+ii. The state is aware that the demand for potatoes by the consumers would rise substantially in 
+the near future. 
+A. Only ii is implicit 
+B. Both i and ii are implicit 
+C. Neither i nor ii is implicit 
+D. Only i is implicit 
+ 
+Answer: Option B 
+ 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 17 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+Q4. In a certain code,M + N means M is the son of N, M X N means M is the brother of N; M÷N 
+means M is the husband of N and M - N means M is the sister of N. 
+ 
+If T - P + Q X R ÷ S,then which of the following is true? 
+A. P is the son of S 
+B. Q is the uncle of T 
+C. S is the sister of Q 
+D. S is the aunt of T 
+ 
+Answer: Option D 
+ 
+Q5. A team of four players are to be selected from among four girls A,B,C,D and four boys 
+P,Q,R,S such that there would be at least two girls in the team and the team selection should 
+meet the following conditions 
+i.B cannot go with R 
+ii.D and P must go together 
+iii.S cannot be put up with A 
+iv. R and C must be together 
+A. QBSC 
+B. DAPQ 
+C. RCQS 
+D. BPRA 
+ 
+Answer: Option B 
+ 
+Q6.Each of the five students, P,Q,R,S and T studies two subjects from  the given subjects named 
+History,Mathematics,English,Sanskrit,and Science.Each subject is studied by two students 
+i.P studies Mathematics and Sanskrit 
+ii.R studies History and Mathematics 
+iii.S and T both study English 
+iv.Q does not study science 
+Who from the given option studies science? 
+ 
+A. P 
+B. Q 
+C. R 
+D. S 
+ 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 18 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+Answer: Option D 
+ 
+Q7. A statement is followed by three assumptions numbered I, II and III. Consider the 
+statement and decide which of the given assumption(s) is/are implicit in the statement. 
+Statement: 
+Punishment of students in any form by teachers is banned in all schools to preserve the self-
+confidences of students. 
+Assumptions: 
+I. Punishment in a mild form is not a cognizable offence in out-of-school as it is a method 
+for disciplining children. 
+II. Teachers taking recourse to punishing children will be held accountable for their actions. 
+III. Punishment might induce fear, negatively affecting students’ level of confidence and 
+learning 
+A. Only III is implicit 
+B. Only I and II are implicit 
+C. Only II is implicit 
+D. Only II and II are implicit 
+ 
+Answer: Option A 
+ 
+Q8. 1600 employees are working in a company in four departments: Accounts, HR, Production 
+and Sales, 20$ of the employees are in Accounts with a male-female ratio of 5:3. 640 are 
+working in Production where the number of males is twice the number of males of the 
+Accounts Department. The number of HR employees is half the number of employees in the 
+Accounts department and 60 of them are females. The number of male employee in the Sales 
+department is same as that of the Production department. 
+ 
+How many female employees are working in the company? 
+A. 600 
+B. 540 
+C. 400 
+D. 500 
+ 
+Answer: Option D 
+ 
+Q9. Given below is a question followed by two statements, I and II, each containing some 
+information. Decide which of the statement(s) is/are sufficient to answer the question. 
+How is Sheela exactly related to Ramesh? 
+Statements: 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 19 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+I. Mary’s brother Vikash is married to Sheela and Ramesh’s mother is the sister of Mary. 
+II. Sheela is the sister of Vikash and Vikash’s only child is the cousin brother of Ramesh. 
+A. Both the statements I and II are necessary 
+B. Both the statements I and II together are not sufficient 
+C. Statement II alone is sufficient 
+D. Statement  I alone if sufficient 
+ 
+Answer: Option D 
+ 
+Programming Logic: 
+ 
+Q1. Which argument is passed to fflush()? 
+A.no parameters 
+B.stdin 
+C.stdout 
+D.stderr 
+ 
+Answer: Option B 
+ 
+Q2. What will be the output for the below? Enter your answer only as Numeral 
+ 
+public Class Main 
+{ 
+public static void main(string[]) 
+{ 
+int x=1/2; 
+if(x==0.5) 
+System.out.println(x+1); 
+else  
+System.out.println(x*2); 
+} 
+} 
+ 
+Answer: 0 
+ 
+Q3. What is the name of the method that examines a particular data entity and determines 
+what data elements need to be associated? 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 20 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+ 
+A. Entity relationship diagram 
+B. Logic Data modeling 
+C. Customer Entities 
+D. Functional Primitive 
+ 
+Answer: Option A 
+ 
+Q4. What will be the output of the below code? 
+ 
+public class Main 
+{ 
+static int num=30; 
+static class inner  
+{ 
+void msg() 
+{ 
+System.out.Println(‘Num: num++);} 
+} 
+public static void main(string args[]) 
+{ 
+Main.Inner tw=new Main.Inner(); 
+tw.msg() 
+} 
+} 
+ 
+Answer: 30 
+ 
+Q5. Select the correct code for opening a file for writing in binary mode 
+ 
+A. File*f =fwriteb(“abc.bin”) 
+B. File*f = fopen(“abc.bin”,”bw”) 
+C. File*f = fopen(“abc.bin”,”wb”) 
+D. File*f =fwrite(“abc.bin”,”b”) 
+ 
+Answer: Option C 
+ 
+Q6. What will be the output of the below code? 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 21 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+import java.util.ArrayList; 
+import java.util.Collections; 
+import java.util.Iterator; 
+class MainClass 
+{ 
+ public void sort() 
+ { 
+  ArrayList<String> arrayList= new ArrayList<String>(); 
+  arrayList.add("mango"); 
+  arrayList.add("grapes"); 
+  Iterator iterator = arrayList.iterator(); 
+  while(iterator.hasNext()) 
+  { 
+   System.out.print(iterator.next() +" "); 
+  } 
+  Collections.sort(arrayList); 
+ } 
+} 
+public class Main 
+{ 
+ public static void main(String[] args) 
+{ 
+ MainClass mainclass = new MainClass(); 
+ mainclass.sort(); 
+} 
+} 
+A. mango grapes 
+B. Compilation error 
+C. Collection.sort() throws Concurrent Modification Exception 
+D. Grapes mango 
+ 
+Answer: Option A 
+ 
+Q7. What is the name of the method that examines a particular data entity and determines 
+what data elements need to be associated with it? 
+A. Customer Entities 
+B. Entity Relationship Diagram 
+C. Logic Data Modelling 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 22 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+D. Functional Primitive 
+ 
+Answer: Option B 
+ 
+Q8. We cannot overload ______ operator. 
+A. : : 
+B. [] 
+C. () 
+D. + 
+ 
+Answer: Option A 
+ 
+Q9. Which of the following functions is used to accept strings with white spaces? 
+ 
+A.getWhiteSpaceString(); 
+B.scanf(); 
+C.gets(); 
+D.getstrings(); 
+ 
+Answer: Option C 
+ 
+Q10.Which data structure is used to convert expression from one form to another form? 
+ 
+A. Graph 
+B. Stack 
+C. LinkedList 
+D. Queue 
+ 
+Answer: Option  B 
+ 
+Q11.What is the mathematical function used to round off 6.23 to 7? 
+ 
+A. floor(6.23) 
+B. ceil(6.23,7) 
+C. floor(6.23,7) 
+D. ceil(6.23) 
+ 
+Answer: Option D 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 23 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+ 
+Q12. Which combination of the integer variables a, b and c makes the variable m get the value 
+4 in the following expression? 
+m = (a > b) ? (( a > c ) ? a : c) : ((b > c ) ? b : c ) 
+A. a=6, b=3, c=5 
+B. a=6, b=5, c=3 
+C. a=5, b=4, c=5 
+D. a=3, b=4, c=2 
+ 
+Answer: Option D 
+ 
+Q13.  Which of the following options best suits for ‘Memory Leak Occurred’ 
+A. Resource allocation pending while debugging the code 
+B. Program releases resources allocated in the memory 
+C. Program does not free the memory which is allocated dynamically 
+D. Occurs due to address assignment failure. 
+ 
+Answer- Option C 
+ 
+ 
+ 
+Coding: 
+Q1. WASHING MACHINE 
+A Washing Machine works on the principle of a Fuzzy system, the weight of clothes put inside it 
+for wash is uncertain. But based on weight measured by sensors, it decides time and water 
+levels which can be changed by menus given on the machine control area. For low Water level, 
+time estimate is 25 minutes, where approximate weight is 2000 grams or any non-zero positive 
+number below that.  
+For Medium Water level, time estimated is 35minutes, where approximate weight is between 
+2001 grams and 4000 grams.  
+For High Water level, time estimated is 45 Minutes, where approximate weight is above 4000 
+grams.  
+Assume the Capacity of the Machine is maximum 7000 grams.  
+Where the approximate weight is zero, the time estimate is 0 minutes. Write a function which 
+takes numeric weight in the range [0,7000] as input and produces estimated time as output; if 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 24 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+input is more than 7000, then output is: "OVERLOADED!", and for all other inputs, the output 
+statement is "INVALID INPUT”. 
+ 
+Input should be in the form of integer value -  
+<Integer> 
+ 
+Output must have the following format - 
+TimeEstimated: <Integer> Minutes 
+ 
+Example 1 
+Input Value 
+2000 
+Output Value 
+Time Estimated: 25 Minutes 
+ 
+ 
+ 
+Q2. Caesar Cipher 
+The Caesar cipher is a type of substitution cipher in which each alphabet in the plaintext or 
+message is shifted by a number of places down the alphabet. 
+ 
+For example, with a shift of 1, P would be replaced by Q, Q would become R, and so on. 
+Downloaded by Aayush Gupta (aayushgupta1003@gmail.com)
+lOMoARcPSD|63902544
+
+
+--- Page 25 ---
+
+TCS NQT 2020 |  24th Oct 1 pm to 4 pm Slot Analysis 
+ 
+ 
+ 
+ 
+To pass an encrypted message from one person to another, it is first necessary that both parties 
+have the 'key' for the cipher, so that the sender may encrypt it and the receiver may decrypt it. 
+ 
+the key is the number of OFFSETs to shift the cipher alphabet. Key can have basic shifts from 1 
+to 25 positions as there are 26 total alphabets. 
+ 
+As we are designing custom Caesar Cipher, in addition to alphabets, we are considering 
+numeric digits from 0 to 9. Digits can also be shifted by key places. 
+ 
+For example, if given plain text contains any digit with value 5 and key = 2, then 5 will be 
+replaced by 7. “-” (Minus sign) will remain as it is. Key value less than 0 should result into 
+"INVALID INPUT" 
+ 
+Example 1: 
+Input: 
+Enter your PlainText: All the Best 
+Enter the Key: 1 
+Output: 
+The encrypted Text is: Bmm uif Cftu 
+ 
+Write a function customCaesarCipher(int key, String message) which will accept plaintext and 
+key as input parameters and returns its cipher text as output. 
+ 
+ 
+ 
